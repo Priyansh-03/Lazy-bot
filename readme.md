@@ -1,6 +1,6 @@
 # LazyBot - Real-Time Posture Detection 🎯
 
-![LazyBot Banner](misc/banner.jpg)  
+![LazyBot Banner](misc/layout.jpg)  
 *Transform your sitting habits with real-time posture monitoring! 🚀*
 
 ## Overview ✨
